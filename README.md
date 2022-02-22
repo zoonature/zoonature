@@ -27,7 +27,7 @@
 - _Advisor: Prof. Chong-am Kim_
 
 ---
-### 📖 Research Interets
+### 📖 Research Interests
 #### Computational Fluid Dynamics
 - Data-driven CFD
 - Data-driven shock-capturing
