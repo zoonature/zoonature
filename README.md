@@ -35,6 +35,14 @@
 - Fluid Simulation
 - Rigid Body Simulation
 
+### 📚 Research Experience
+#### Undergraduate student, Computer Graphics Laboratory, Sejong University, Republic of Korea (09.2017~2021.08)
+- Studied Physics-based Animation, especially Fluid Simulation
+- Participated in research on Fluid Simulation (SPH, CIP, etc.)
+#### Combined MS/PhD student, Aerodynamics Simulation & Design Laboratory, Seoul National University. Republic of Korea (09.2021~present)
+- Studied Computational-Fluid-Dynamics, especially data-driven numerical method
+- Participated in research on data-driven numerical method (shock-capturing)
+
 
 <!--
 **zoonature/zoonature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
