@@ -1,6 +1,6 @@
 # Hi, I'm Jayon JOO, a Developer from South Korea 👋
 
-- 🔭 I’m currently working on my CFD-AI project
+- 🔭 I’m currently working on my data-driven CFD project
 - 🌱 I’m currently learning CFD(Computational Fluid Dynamics), AI(Artificial Intelligence)  
 
 ---
