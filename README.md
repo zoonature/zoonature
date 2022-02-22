@@ -35,6 +35,8 @@
 - Fluid Simulation
 - Rigid Body Simulation
 
+---
+
 ### 📚 Research Experience
 #### Undergraduate student, Computer Graphics Laboratory, Sejong University, Republic of Korea (09.2017~2021.08)
 - Studied Physics-based Animation, especially Fluid Simulation
