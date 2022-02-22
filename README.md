@@ -56,6 +56,31 @@
 - Course name : 일반물리 및 시뮬레이션
 - Taught major students as an instructor on online live class due to COVID 19 
 
+---
+
+### Extra-curricular activities
+#### Staff member, LikeLION, Republic of Korea (09.2018~06.2020)
+- Learned web programming
+- Did web project by using html, css, Django, PostgreSQL
+- Did programming education volunteer for high school students
+
+---
+
+### Publications
+#### 파이썬으로 코딩하는 물리
+- Participated in programming  part
+- Code Drive : will be updated
+
+---
+
+### Projectes
+
+---
+
+### Awards & Honors
+
+---
+
 <!--
 **zoonature/zoonature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
