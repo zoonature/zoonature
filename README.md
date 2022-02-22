@@ -22,12 +22,12 @@
 - Bachelor of  Science in Software / Aerospace Engineering (Double Major)
 - GPA 3.89/4.5
 - _Advisor: Prof. Oh-young Song_
-#### Seoul National University, Seoul, Republic of Korea (2021.09 ~ present)
+#### Seoul National University, Seoul, Republic of Korea (09.2021 ~ present)
 - Integrated M.S. - Ph.D. Student in Department of Aerospace Engineering 
 - _Advisor: Prof. Chong-am Kim_
 
 ---
-### 📖 Research Interests
+### 📕 Research Interests
 #### Computational Fluid Dynamics
 - Data-driven CFD
 - Data-driven shock-capturing
@@ -37,14 +37,24 @@
 
 ---
 
-### 📚 Research Experience
-#### Undergraduate student, Computer Graphics Laboratory, Sejong University, Republic of Korea (09.2017~2021.08)
+### 📗 Research Experience
+#### Undergraduate student, Computer Graphics Laboratory, Sejong University, Republic of Korea (09.2017~08.2021)
 - Studied Physics-based Animation, especially Fluid Simulation
 - Participated in research on Fluid Simulation (SPH, CIP, etc.)
 #### Combined MS/PhD student, Aerodynamics Simulation & Design Laboratory, Seoul National University. Republic of Korea (09.2021~present)
 - Studied Computational-Fluid-Dynamics, especially data-driven numerical method
 - Participated in research on data-driven numerical method (shock-capturing)
 
+---
+### 📘 Teaching Experience
+#### Teaching assistant, Sejong University, Republic of Korea (03.2018~12.2022)
+- Course name : 소프트웨어 기초코딩 / 컴퓨팅사고기반 기초코딩 / 프로그래밍 입문 
+- Helped non-major students as an assistant (2018.3 ~ 2019.12)
+- Taught non-major students as an instructor (2020.3 ~ 2020.12)
+- Covered Python from grammar to application
+#### Teaching assistant, Sejong University, Republic of Korea (2020.03~2020.06)
+- Course name : 일반물리 및 시뮬레이션
+- Taught major students as an instructor on online live class due to COVID 19 
 
 <!--
 **zoonature/zoonature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
