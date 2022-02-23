@@ -18,4 +18,4 @@
 
 ---
 
-### if you want to know more, you can click [here](https://github.com/zoonature/zoonature/edit/main/README.md)
+### if you want to know more, you can click [here](https://github.com/zoonature/JayeonJOO_CV)
