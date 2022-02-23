@@ -1,14 +1,14 @@
 # Hi, I'm Jayon JOO, a Developer from South Korea 👋
 
 - 🔭 I’m currently working on my data-driven CFD project
-- 🌱 I’m currently learning CFD(Computational Fluid Dynamics), AI(Artificial Intelligence)  
+- 🌱 I’m currently learning CFD(Computational Fluid Dynamics) and AI(Artificial Intelligence)  
 
 ---
 
 ### 💪 Skills
 #### languages
-<img src="https://img.shields.io/badge/c-A8B9CC?style=badge&logo=c%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/c++-00599C?style=badge&logo=c%2B%2B%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=badge&logo=c%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/c++-%2300599C?style=badge&logo=c%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=badge&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=badge&logo=Java&logoColor=white"/></a>
 #### AI frameworks
