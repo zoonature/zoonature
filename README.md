@@ -1,4 +1,4 @@
-# Hi, I'm Jayon JOO, a Developer from South Korea 👋
+# Hi, I'm Jayeon JOO, a Developer from South Korea 👋
 
 - 🔭 I’m currently working on my data-driven CFD project
 - 🌱 I’m currently learning CFD(Computational Fluid Dynamics) and AI(Artificial Intelligence)  
