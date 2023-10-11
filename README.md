@@ -1,7 +1,6 @@
-# Hi, I'm Jayeon JOO, a Developer from South Korea 👋
+# Hi, I'm Jayeon JOO, Researcher from South Korea 👋
 
-- 🔭 I’m currently working on my data-driven CFD project
-- 🌱 I’m currently learning CFD(Computational Fluid Dynamics) and AI(Artificial Intelligence)  
+🔭 I’m currently interested in data-driven numerical methods.
 
 ---
 
@@ -18,4 +17,4 @@
 
 ---
 
-### if you want to know more, you can click [here](https://github.com/zoonature/JayeonJOO_CV)
+### if you want to know more, you can click [here](https://zoonature.github.io/Homepage/)
